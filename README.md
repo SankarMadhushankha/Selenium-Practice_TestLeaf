@@ -1,2 +1,2 @@
 # Selenium-Practice_TestLeaf
- Conductingtests ontheTestLeaf website using Selenium WebDriver, managed with Mavendependencies, andexe cuted within the IntelliJ IDEA environment.
+ Conducting tests on the TestLeaf website using Selenium WebDriver, managed with Maven dependencies, and executed within the IntelliJ IDEA environment.
